@@ -5,7 +5,6 @@ Work is lisenced under Creative Commons BY-NC 4.0  https://creativecommons.org/l
 To use this program two images are required, a single channel image of the nucleus and a single channel image of a fluorescent tag
 Requirements for the images:
     - They must be the same size
-    - They need to be in an image format e.g .jpg, .tif or .PNG
     - In focus images will provide more accurate analysis
     - Artificially modifying one image e.g increasing brightness, without changing the other may affect accuracy
     - The image MUST BE A .tif FILE this is because when the cells are extracted the individual images are saved as .tif images
